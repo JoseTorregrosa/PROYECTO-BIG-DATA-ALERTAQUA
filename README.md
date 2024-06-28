@@ -15,23 +15,9 @@ Pinchando en el enlace de descarga de ese conjunto de datos, se obtiene el fiche
 Los datos pertenecen a la Agencia del entorno europeo (European Environment Agency - https://data.europa.eu/data/catalogues/eea?locale=es/  )
 
 El fichero donde aparece la memoria para comprender los programas es: [PROYECTO ALERTAQUA.pdf](https://github.com/user-attachments/files/16032227/PROYECTO.ALERTAQUA.pdf)
-  
-INDICE SEGUIDO EN LA MEMORIA
 
-1. INTRODUCCIÓN	
-2. OBJETIVOS DEL PROYECTO
-3. EJECUCIÓN DEL PROYECTO
-   3.1  EXPLORACIÓN DE LOS DATOS
-   3.2. TRATAMIENTO DE LOS DATOS
-   3.3. ESTRATEGIAS DE ANÁLISIS DE LOS DATOS
-   	3.3.1. CLASIFICACIÓN POR RANDOM FOREST
-   	3.3.2. REGRESIÓN POR RANDOM FOREST
-   	3.3.3. REGRESIÓN POR RED NEURONAL
-   	3.3.4. CLASIFICACIÓN POR RED NEURONAL
-5. PROBLEMAS ENCONTRADOS
-6. RESULTADOS
-   5.1. RESULTADOS EN FUNCIÓN DE LOS OBJETIVOS DEL PROYECTO
-   5.2. RESULTADOS EN FUNCIÓN DE LOS DATOS ANALIZADOS
-8. CONCLUSIONES
+
+![image](https://github.com/JoseTorregrosa/PROYECTO-BIG-DATA-AQUALERT/assets/174013089/3c6fc3fc-1ffa-4c5a-bb5b-cf244eb9c715)
+
 
 
