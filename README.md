@@ -4,9 +4,9 @@
  	José Jesús Torregrosa García
 		Fecha de realización: 27/06/2024
 
-Es un proyecto que trata sobre la clasificació y predicción de tomas de componentes de las aguas, usando de técnicas de Inteligencia Artificial y Big Data.
+Es un proyecto que trata sobre la clasificación y predicción de tomas de componentes de las aguas, usando de técnicas de Inteligencia Artificial y Big Data.
 
-Sirve como introducción a la exploración de datos, transformación de datos, y a la construcción y validación de modelos con distintas técnicas de Inteligencia Artificial
+Sirve como una esquematizada introducción a la exploración de datos, transformación de datos, y a la construcción y validación de modelos con distintas técnicas de Inteligencia Artificial
 
 De la página web https://data.europa.eu/data/datasets/dat-163-en?locale=es se escogió el conjunto de datos Calidad de la base de agua-Agua (archivos CSV).  
 
