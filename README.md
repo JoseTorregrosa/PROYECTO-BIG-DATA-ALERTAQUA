@@ -8,7 +8,9 @@ Es un proyecto que trata sobre la clasificación y predicción de tomas de compo
 
 Sirve como una esquematizada introducción a la exploración de datos, transformación de datos, y a la construcción y validación de modelos con distintas técnicas de Inteligencia Artificial
 
-De la página web https://data.europa.eu/data/datasets/dat-163-en?locale=es se escogió el conjunto de datos Calidad de la base de agua-Agua (archivos CSV).  
+De la página web https://data.europa.eu/data/datasets/dat-163-en?locale=es se escogió el conjunto de datos Calidad de la base de agua-Agua (archivos CSV). 
+
+Para acceder al conjunto de datos hay que pinchar en: https://cmshare.eea.europa.eu/s/B9dGkQGHtJoqPqJ/download  
 
 Pinchando en el enlace de descarga de ese conjunto de datos, se obtiene el fichero Waterbase_v2018_1_WISE4_csv.zip. Este archivo zip contiene el fichero usado para este trabajo: DisaggregatedData.csv. Fichero que contiene datos de toma de muestras de mediciones de agua en Europa con diversa información.
 
